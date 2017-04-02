@@ -1,0 +1,4 @@
+C:\Dev\learning\DapperExample\Dapper\Dapper.Models\bin\Debug\Dapper.Models.dll
+C:\Dev\learning\DapperExample\Dapper\Dapper.Models\bin\Debug\Dapper.Models.pdb
+C:\Dev\learning\DapperExample\Dapper\Dapper.Models\obj\Debug\Dapper.Models.dll
+C:\Dev\learning\DapperExample\Dapper\Dapper.Models\obj\Debug\Dapper.Models.pdb

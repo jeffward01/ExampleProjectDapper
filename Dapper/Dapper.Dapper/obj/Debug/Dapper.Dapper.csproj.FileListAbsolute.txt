@@ -1,0 +1,9 @@
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\bin\Debug\Dapper.Dapper.dll
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\bin\Debug\Dapper.Dapper.pdb
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\bin\Debug\Dapper.dll
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\bin\Debug\Dapper.Models.dll
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\bin\Debug\Dapper.Models.pdb
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\bin\Debug\Dapper.xml
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\obj\Debug\Dapper.Dapper.csprojResolveAssemblyReference.cache
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\obj\Debug\Dapper.Dapper.dll
+C:\Dev\learning\DapperExample\Dapper\Dapper.Dapper\obj\Debug\Dapper.Dapper.pdb
